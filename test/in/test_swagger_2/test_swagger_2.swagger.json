@@ -23,8 +23,8 @@
               "description" : "",
               "x-example":
                 {
-                  "rt":     "oic.r.switch.binary",
-                  "id":     "unique_example_id",
+                  "rt":   ["oic.r.switch.binary"],
+                  "id":     ["unique_example_id"],
                   "value":  false
                 }
                 ,
